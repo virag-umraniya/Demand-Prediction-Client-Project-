@@ -11,16 +11,16 @@ standards.
 
 ## Project Overview:
 
-Objective: To build a predictive tool that accurately forecasts product sales.
+- Objective: To build a predictive tool that accurately forecasts product sales.
 
-Methodology: Utilized historical sales data and the SARIMA (Seasonal Autoregressive Integrated Moving Average) model to capture seasonal patterns and trends.
+- Methodology: Utilized historical sales data and the SARIMA (Seasonal Autoregressive Integrated Moving Average) model to capture seasonal patterns and trends.
 
-Technology Stack:
+- Technology Stack:
 
-Python
+- Python
 
-Pandas & NumPy (for data manipulation)
+- Pandas & NumPy (for data manipulation)
 
-Scikit-learn (for model evaluation)
+- Scikit-learn (for model evaluation)
 
-Statsmodels (for the SARIMA model)
+- Statsmodels (for the SARIMA model)
