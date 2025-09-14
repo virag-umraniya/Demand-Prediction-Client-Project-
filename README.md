@@ -8,3 +8,19 @@ spare parts inventory costs. In spite of this, availability of spare parts is be
 
 - PROJECT GOAL: 1. Create Predictive model for inventory forecasting so that service centre achieve JIT
 standards.
+
+## Project Overview:
+
+Objective: To build a predictive tool that accurately forecasts product sales.
+
+Methodology: Utilized historical sales data and the SARIMA (Seasonal Autoregressive Integrated Moving Average) model to capture seasonal patterns and trends.
+
+Technology Stack:
+
+Python
+
+Pandas & NumPy (for data manipulation)
+
+Scikit-learn (for model evaluation)
+
+Statsmodels (for the SARIMA model)
